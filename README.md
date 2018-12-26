@@ -11,7 +11,7 @@ Smart Accident Alert System tries to curb accidents. It is accident detection an
 
 * Driver will be intimated about ‘accident prone zone’ based on the vehicle's coordinates. Hence , the driver will become cautious while driving. 
 
-* An extra module, Camera, is included for further enhancement of the Accident Alert System, which will take picture of the driver in regular intervals and send them to a server via wi-fi. This will help in jugding the behaviour of the driver while driving.
+* An extra module, Camera, is included for further enhancement of the Accident Alert System, which will take picture of the driver in regular intervals and send them to a server via wi-fi. This will help in judging the behaviour of the driver while driving.
 
 &nbsp;
 > ## Components Required
